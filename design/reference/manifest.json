@@ -1,0 +1,442 @@
+[
+  {
+    "group": "00_Design_system",
+    "name": "01_Thanh_phan",
+    "title": "Hệ thống thiết kế theo video",
+    "width": 1440,
+    "height": 1100,
+    "svg": "00_Design_system/01_Thanh_phan.svg"
+  },
+  {
+    "group": "01_Cong_khai",
+    "name": "01_Trang_chu",
+    "title": "Trang chủ SmartCode",
+    "width": 1440,
+    "height": 1100,
+    "svg": "01_Cong_khai/01_Trang_chu.svg"
+  },
+  {
+    "group": "01_Cong_khai",
+    "name": "02_Dang_nhap",
+    "title": "Chào mừng trở lại",
+    "width": 1440,
+    "height": 1000,
+    "svg": "01_Cong_khai/02_Dang_nhap.svg"
+  },
+  {
+    "group": "01_Cong_khai",
+    "name": "03_Dang_ky",
+    "title": "Bắt đầu hành trình của bạn",
+    "width": 1440,
+    "height": 1000,
+    "svg": "01_Cong_khai/03_Dang_ky.svg"
+  },
+  {
+    "group": "01_Cong_khai",
+    "name": "04_Quen_mat_khau",
+    "title": "Khôi phục mật khẩu",
+    "width": 1440,
+    "height": 1000,
+    "svg": "01_Cong_khai/04_Quen_mat_khau.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "01_Tong_quan",
+    "title": "Dashboard cá nhân",
+    "width": 1440,
+    "height": 1100,
+    "svg": "02_Nguoi_hoc/01_Tong_quan.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "02_Kham_pha",
+    "title": "Khám phá khóa học",
+    "width": 1440,
+    "height": 1150,
+    "svg": "02_Nguoi_hoc/02_Kham_pha.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "03_Chi_tiet_khoa_hoc",
+    "title": "Python cơ bản",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/03_Chi_tiet_khoa_hoc.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "04_Lo_trinh",
+    "title": "Lộ trình học cá nhân hóa",
+    "width": 1440,
+    "height": 2020,
+    "svg": "02_Nguoi_hoc/04_Lo_trinh.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "05_Bai_hoc",
+    "title": "Video bài giảng • Biến và kiểu dữ liệu",
+    "width": 1440,
+    "height": 1320,
+    "svg": "02_Nguoi_hoc/05_Bai_hoc.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "06_Trac_nghiem",
+    "title": "Kiểm tra kiến thức",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/06_Trac_nghiem.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "07_Kiem_tra_dau_vao",
+    "title": "Đánh giá đầu vào",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/07_Kiem_tra_dau_vao.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "08_Thuc_hanh_code",
+    "title": "Thực hành • Phân tích cảm xúc",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/08_Thuc_hanh_code.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "09_Ket_qua_cham",
+    "title": "Tính diện tích hình chữ nhật",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/09_Ket_qua_cham.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "10_AI_goi_y",
+    "title": "Tính diện tích hình chữ nhật",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/10_AI_goi_y.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "11_Dau_vao_thuc_hanh",
+    "title": "Tính diện tích hình chữ nhật",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/11_Dau_vao_thuc_hanh.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "12_Ket_qua_dau_vao",
+    "title": "Lộ trình đã sẵn sàng",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/12_Ket_qua_dau_vao.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "13_Lich_su_nop",
+    "title": "Lịch sử nộp bài",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/13_Lich_su_nop.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "14_Ky_nang",
+    "title": "Phân tích kỹ năng",
+    "width": 1440,
+    "height": 1180,
+    "svg": "02_Nguoi_hoc/14_Ky_nang.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "15_Lop_cua_toi",
+    "title": "Lớp học của tôi",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/15_Lop_cua_toi.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "16_Xep_hang",
+    "title": "Bảng xếp hạng",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/16_Xep_hang.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "17_Tai_khoan",
+    "title": "Cài đặt tài khoản",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/17_Tai_khoan.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "18_Thanh_toan",
+    "title": "Xác nhận đăng ký khóa học",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/18_Thanh_toan.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "19_Trang_thai",
+    "title": "Thông báo & trạng thái",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/19_Trang_thai.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "20_Chi_tiet_bai_nop",
+    "title": "Chi tiết bài nộp #SC1026",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/20_Chi_tiet_bai_nop.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "21_Dang_ky_thanh_cong",
+    "title": "Đăng ký thành công",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/21_Dang_ky_thanh_cong.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "22_Thong_bao",
+    "title": "Thông báo",
+    "width": 1440,
+    "height": 1055,
+    "svg": "02_Nguoi_hoc/22_Thong_bao.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "23_Danh_sach_bai_tap",
+    "title": "Bài học & thực hành",
+    "width": 1440,
+    "height": 1120,
+    "svg": "02_Nguoi_hoc/23_Danh_sach_bai_tap.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "24_Khao_sat_dau_vao",
+    "title": "Khảo sát đầu vào",
+    "width": 1440,
+    "height": 1000,
+    "svg": "02_Nguoi_hoc/24_Khao_sat_dau_vao.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "25_Insight",
+    "title": "Insight • Thống kê học tập",
+    "width": 1440,
+    "height": 2360,
+    "svg": "02_Nguoi_hoc/25_Insight.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "26_Video_ghi_chu",
+    "title": "Video bài giảng • Biến và kiểu dữ liệu",
+    "width": 1440,
+    "height": 1320,
+    "svg": "02_Nguoi_hoc/26_Video_ghi_chu.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "27_Cam_xuc_binh_thuong",
+    "title": "Thực hành • Phân tích cảm xúc",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/27_Cam_xuc_binh_thuong.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "28_Cam_xuc_tieu_cuc",
+    "title": "Thực hành • Phân tích cảm xúc",
+    "width": 1440,
+    "height": 1110,
+    "svg": "02_Nguoi_hoc/28_Cam_xuc_tieu_cuc.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "29_Dien_bien_cam_xuc",
+    "title": "Diễn biến cảm xúc",
+    "width": 1440,
+    "height": 1050,
+    "svg": "02_Nguoi_hoc/29_Dien_bien_cam_xuc.svg"
+  },
+  {
+    "group": "02_Nguoi_hoc",
+    "name": "30_Code_mau_video",
+    "title": "Code mẫu bài giảng",
+    "width": 1440,
+    "height": 1000,
+    "svg": "02_Nguoi_hoc/30_Code_mau_video.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "01_Tong_quan",
+    "title": "Khóa học của tôi",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/01_Tong_quan.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "02_Quan_ly_lop",
+    "title": "Java Core",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/02_Quan_ly_lop.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "03_Ngan_hang",
+    "title": "Ngân hàng bài tập",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/03_Ngan_hang.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "04_Soan_bai_tap",
+    "title": "Tạo bài tập",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/04_Soan_bai_tap.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "05_Tao_buoi_hoc",
+    "title": "Java Core",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/05_Tao_buoi_hoc.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "06_Giam_sat_live",
+    "title": "Dashboard bài tập",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/06_Giam_sat_live.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "07_Bao_cao_lop",
+    "title": "Báo cáo buổi học",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/07_Bao_cao_lop.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "08_Soan_bai_hoc",
+    "title": "Biên soạn bài học",
+    "width": 1440,
+    "height": 1300,
+    "svg": "03_Giang_vien/08_Soan_bai_hoc.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "09_Chi_tiet_hoc_vien",
+    "title": "Tiến độ học viên Bình",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/09_Chi_tiet_hoc_vien.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "10_Phan_nhom_bai_tap",
+    "title": "Buổi 03 — Vòng lặp for",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/10_Phan_nhom_bai_tap.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "11_Hop_thoai_gan_bai",
+    "title": "Buổi 03 — Vòng lặp for",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/11_Hop_thoai_gan_bai.svg"
+  },
+  {
+    "group": "03_Giang_vien",
+    "name": "12_Quan_ly_video",
+    "title": "Video bài giảng",
+    "width": 1440,
+    "height": 1000,
+    "svg": "03_Giang_vien/12_Quan_ly_video.svg"
+  },
+  {
+    "group": "04_Quan_tri",
+    "name": "01_Nguoi_dung",
+    "title": "Người dùng",
+    "width": 1440,
+    "height": 1000,
+    "svg": "04_Quan_tri/01_Nguoi_dung.svg"
+  },
+  {
+    "group": "04_Quan_tri",
+    "name": "02_Khoa_hoc",
+    "title": "Khóa học",
+    "width": 1440,
+    "height": 1000,
+    "svg": "04_Quan_tri/02_Khoa_hoc.svg"
+  },
+  {
+    "group": "04_Quan_tri",
+    "name": "03_Giao_dich",
+    "title": "Giao dịch",
+    "width": 1440,
+    "height": 1000,
+    "svg": "04_Quan_tri/03_Giao_dich.svg"
+  },
+  {
+    "group": "04_Quan_tri",
+    "name": "04_Phan_anh",
+    "title": "Phản ánh nội dung",
+    "width": 1440,
+    "height": 1000,
+    "svg": "04_Quan_tri/04_Phan_anh.svg"
+  },
+  {
+    "group": "04_Quan_tri",
+    "name": "05_Tong_quan",
+    "title": "Tổng quan hệ thống",
+    "width": 1440,
+    "height": 1000,
+    "svg": "04_Quan_tri/05_Tong_quan.svg"
+  },
+  {
+    "group": "05_Mobile",
+    "name": "01_Mobile_Tong_quan",
+    "title": "Tổng quan",
+    "width": 390,
+    "height": 930,
+    "svg": "05_Mobile/01_Mobile_Tong_quan.svg"
+  },
+  {
+    "group": "05_Mobile",
+    "name": "02_Mobile_Lo_trinh",
+    "title": "Lộ trình học",
+    "width": 390,
+    "height": 930,
+    "svg": "05_Mobile/02_Mobile_Lo_trinh.svg"
+  },
+  {
+    "group": "05_Mobile",
+    "name": "03_Mobile_Bai_hoc",
+    "title": "Video bài giảng trên mobile",
+    "width": 390,
+    "height": 1150,
+    "svg": "05_Mobile/03_Mobile_Bai_hoc.svg"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "release_date": "2026-10-12",
+  "reference_screens": 55,
+  "backend_tests": 26,
+  "frontend_tests": 27,
+  "production_build": "passed",
+  "database_tables": 30,
+  "visual_browser_check": "blocked: localhost browser access was denied; pixel match not verified",
+  "runtime": "Python FastAPI and built React frontend; no containers",
+  "external_services": {
+    "code_grading": "Judge0 required",
+    "generated_hints": "Ollama optional; authored hints available",
+    "password_email": "SMTP optional; development outbox available"
+  },
+  "sample_content": {
+    "courses": 3,
+    "lessons": 30,
+    "exercises": 60,
+    "intro_videos": 3,
+    "intro_video_seconds_each": 36
+  }
+}

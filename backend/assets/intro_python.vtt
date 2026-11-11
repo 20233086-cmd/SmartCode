@@ -1,0 +1,26 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Ta sẽ đọc hai số nguyên và in ra tổng của chúng.
+
+2
+00:00:06.000 --> 00:00:12.000
+Hai số nguyên trên một dòng, cách nhau bằng dấu cách.
+
+3
+00:00:12.000 --> 00:00:18.000
+Chuyển văn bản nhập vào thành giá trị số để tính toán.
+
+4
+00:00:18.000 --> 00:00:24.000
+Cộng hai số, sau đó in đúng kết quả ra stdout.
+
+5
+00:00:24.000 --> 00:00:30.000
+Thử cả số âm và số 0 để phát hiện lỗi ở trường hợp biên.
+
+6
+00:00:30.000 --> 00:00:36.000
+Mở bài Tổng hai số, tự viết chương trình và chạy thử.
+

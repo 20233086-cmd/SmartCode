@@ -1,0 +1,72 @@
+.profile-session-actions {
+  margin-top: 14px;
+}
+
+.logout-button {
+  white-space: nowrap;
+}
+
+.logout-button:focus-visible {
+  outline: 3px solid #7ba6ef;
+  outline-offset: 3px;
+}
+
+.reference-nav-actions > .nav-logout {
+  flex-shrink: 0;
+}
+
+.reference-band .reference-nav-actions {
+  gap: 10px;
+}
+
+.reference-band .nav-logout {
+  color: #f0f5ff;
+  background: #ffffff14;
+  border-color: #ffffff4d;
+}
+
+.reference-band .nav-logout:hover {
+  background: #ffffff29;
+}
+
+.nav-logout-menu {
+  display: none;
+}
+
+@media (max-width: 1050px) {
+  .reference-nav-actions > .nav-logout {
+    display: none;
+  }
+
+  .reference-nav-inner nav.open > .nav-logout-menu {
+    display: inline-flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+  }
+
+  .reference-band .nav-logout-menu {
+    color: #f0f5ff;
+    background: #ffffff14;
+    border-color: #ffffff4d;
+  }
+}
+
+@media (max-width: 760px) {
+  .profile-intro {
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .profile-intro > div {
+    min-width: 0;
+  }
+
+  .profile-intro h2,
+  .profile-intro p {
+    overflow-wrap: anywhere;
+  }
+
+  .profile-intro > .avatar {
+    flex-shrink: 0;
+  }
+}

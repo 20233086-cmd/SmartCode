@@ -1,0 +1,56 @@
+﻿Nhóm,Tên file,Màn hình,Rộng,Cao
+00_Design_system,01_Thanh_phan,Hệ thống thiết kế theo video,1440,1100
+01_Cong_khai,01_Trang_chu,Trang chủ SmartCode,1440,1100
+01_Cong_khai,02_Dang_nhap,Chào mừng trở lại,1440,1000
+01_Cong_khai,03_Dang_ky,Bắt đầu hành trình của bạn,1440,1000
+01_Cong_khai,04_Quen_mat_khau,Khôi phục mật khẩu,1440,1000
+02_Nguoi_hoc,01_Tong_quan,Dashboard cá nhân,1440,1100
+02_Nguoi_hoc,02_Kham_pha,Khám phá khóa học,1440,1150
+02_Nguoi_hoc,03_Chi_tiet_khoa_hoc,Python cơ bản,1440,1055
+02_Nguoi_hoc,04_Lo_trinh,Lộ trình học cá nhân hóa,1440,2020
+02_Nguoi_hoc,05_Bai_hoc,Video bài giảng • Biến và kiểu dữ liệu,1440,1320
+02_Nguoi_hoc,06_Trac_nghiem,Kiểm tra kiến thức,1440,1055
+02_Nguoi_hoc,07_Kiem_tra_dau_vao,Đánh giá đầu vào,1440,1055
+02_Nguoi_hoc,08_Thuc_hanh_code,Thực hành • Phân tích cảm xúc,1440,1110
+02_Nguoi_hoc,09_Ket_qua_cham,Tính diện tích hình chữ nhật,1440,1110
+02_Nguoi_hoc,10_AI_goi_y,Tính diện tích hình chữ nhật,1440,1110
+02_Nguoi_hoc,11_Dau_vao_thuc_hanh,Tính diện tích hình chữ nhật,1440,1110
+02_Nguoi_hoc,12_Ket_qua_dau_vao,Lộ trình đã sẵn sàng,1440,1055
+02_Nguoi_hoc,13_Lich_su_nop,Lịch sử nộp bài,1440,1055
+02_Nguoi_hoc,14_Ky_nang,Phân tích kỹ năng,1440,1180
+02_Nguoi_hoc,15_Lop_cua_toi,Lớp học của tôi,1440,1055
+02_Nguoi_hoc,16_Xep_hang,Bảng xếp hạng,1440,1055
+02_Nguoi_hoc,17_Tai_khoan,Cài đặt tài khoản,1440,1055
+02_Nguoi_hoc,18_Thanh_toan,Xác nhận đăng ký khóa học,1440,1055
+02_Nguoi_hoc,19_Trang_thai,Thông báo & trạng thái,1440,1055
+02_Nguoi_hoc,20_Chi_tiet_bai_nop,Chi tiết bài nộp #SC1026,1440,1055
+02_Nguoi_hoc,21_Dang_ky_thanh_cong,Đăng ký thành công,1440,1055
+02_Nguoi_hoc,22_Thong_bao,Thông báo,1440,1055
+02_Nguoi_hoc,23_Danh_sach_bai_tap,Bài học & thực hành,1440,1120
+02_Nguoi_hoc,24_Khao_sat_dau_vao,Khảo sát đầu vào,1440,1000
+02_Nguoi_hoc,25_Insight,Insight • Thống kê học tập,1440,2360
+02_Nguoi_hoc,26_Video_ghi_chu,Video bài giảng • Biến và kiểu dữ liệu,1440,1320
+02_Nguoi_hoc,27_Cam_xuc_binh_thuong,Thực hành • Phân tích cảm xúc,1440,1110
+02_Nguoi_hoc,28_Cam_xuc_tieu_cuc,Thực hành • Phân tích cảm xúc,1440,1110
+02_Nguoi_hoc,29_Dien_bien_cam_xuc,Diễn biến cảm xúc,1440,1050
+02_Nguoi_hoc,30_Code_mau_video,Code mẫu bài giảng,1440,1000
+03_Giang_vien,01_Tong_quan,Khóa học của tôi,1440,1000
+03_Giang_vien,02_Quan_ly_lop,Java Core,1440,1000
+03_Giang_vien,03_Ngan_hang,Ngân hàng bài tập,1440,1000
+03_Giang_vien,04_Soan_bai_tap,Tạo bài tập,1440,1000
+03_Giang_vien,05_Tao_buoi_hoc,Java Core,1440,1000
+03_Giang_vien,06_Giam_sat_live,Dashboard bài tập,1440,1000
+03_Giang_vien,07_Bao_cao_lop,Báo cáo buổi học,1440,1000
+03_Giang_vien,08_Soan_bai_hoc,Biên soạn bài học,1440,1300
+03_Giang_vien,09_Chi_tiet_hoc_vien,Tiến độ học viên Bình,1440,1000
+03_Giang_vien,10_Phan_nhom_bai_tap,Buổi 03 — Vòng lặp for,1440,1000
+03_Giang_vien,11_Hop_thoai_gan_bai,Buổi 03 — Vòng lặp for,1440,1000
+03_Giang_vien,12_Quan_ly_video,Video bài giảng,1440,1000
+04_Quan_tri,01_Nguoi_dung,Người dùng,1440,1000
+04_Quan_tri,02_Khoa_hoc,Khóa học,1440,1000
+04_Quan_tri,03_Giao_dich,Giao dịch,1440,1000
+04_Quan_tri,04_Phan_anh,Phản ánh nội dung,1440,1000
+04_Quan_tri,05_Tong_quan,Tổng quan hệ thống,1440,1000
+05_Mobile,01_Mobile_Tong_quan,Tổng quan,390,930
+05_Mobile,02_Mobile_Lo_trinh,Lộ trình học,390,930
+05_Mobile,03_Mobile_Bai_hoc,Video bài giảng trên mobile,390,1150
